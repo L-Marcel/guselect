@@ -1,0 +1,51 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Tutorial - Guselect",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.8.2.108",
+  },
+  "resources": [
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_player_running","path":"sprites/spr_player_running/spr_player_running.yy",},},
+    {"id":{"name":"obj_flower","path":"objects/obj_flower/obj_flower.yy",},},
+    {"id":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},},
+    {"id":{"name":"fnt_century","path":"fonts/fnt_century/fnt_century.yy",},},
+    {"id":{"name":"obj_saw","path":"objects/obj_saw/obj_saw.yy",},},
+    {"id":{"name":"spr_flower","path":"sprites/spr_flower/spr_flower.yy",},},
+    {"id":{"name":"obj_moving_saw","path":"objects/obj_moving_saw/obj_moving_saw.yy",},},
+    {"id":{"name":"spr_saw","path":"sprites/spr_saw/spr_saw.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
+    {"id":{"name":"fnt_century_bold","path":"fonts/fnt_century_bold/fnt_century_bold.yy",},},
+    {"id":{"name":"level_3","path":"rooms/level_3/level_3.yy",},},
+    {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
+    {"roomId":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
+    {"roomId":{"name":"level_3","path":"rooms/level_3/level_3.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
