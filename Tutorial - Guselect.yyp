@@ -27,7 +27,6 @@
     {"id":{"name":"spr_player_running","path":"sprites/spr_player_running/spr_player_running.yy",},},
     {"id":{"name":"obj_flower","path":"objects/obj_flower/obj_flower.yy",},},
     {"id":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},},
-    {"id":{"name":"fnt_century","path":"fonts/fnt_century/fnt_century.yy",},},
     {"id":{"name":"obj_saw","path":"objects/obj_saw/obj_saw.yy",},},
     {"id":{"name":"spr_flower","path":"sprites/spr_flower/spr_flower.yy",},},
     {"id":{"name":"obj_moving_saw","path":"objects/obj_moving_saw/obj_moving_saw.yy",},},
