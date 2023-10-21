@@ -39,7 +39,7 @@
     {"id":{"name":"prt_player_death","path":"particles/prt_player_death/prt_player_death.yy",},},
     {"id":{"name":"fnt_century_bold","path":"fonts/fnt_century_bold/fnt_century_bold.yy",},},
     {"id":{"name":"level_3","path":"rooms/level_3/level_3.yy",},},
-    {"id":{"name":"spr_part_pick_flower","path":"sprites/spr_part_pick_flower/spr_part_pick_flower.yy",},},
+    {"id":{"name":"spr_part_flower","path":"sprites/spr_part_flower/spr_part_flower.yy",},},
     {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
   ],
   "RoomOrderNodes": [
