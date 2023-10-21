@@ -10,7 +10,7 @@ if(global.win) {
 	instance_deactivate_all(true);
 } else {
 	draw_set_halign(fa_left);
-	draw_text_transformed(4, 4, $"DEATHS: {global.deaths}", 0.5, 0.5, 0);
+	draw_text_transformed(5, 4, $"DEATHS: {global.deaths}", 0.5, 0.5, 0);
 	draw_set_halign(fa_right);
-	draw_text_transformed(room_width - 4, 4, $"LEVEL {global.level}", 0.5, 0.5, 0);
+	draw_text_transformed(room_width - 5, 4, $"LEVEL {global.level}", 0.5, 0.5, 0);
 };

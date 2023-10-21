@@ -1,9 +1,10 @@
 {
   "FolderOrderSettings": [
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Fonts","order":12,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Fonts","order":12,"path":"folders/Fonts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Particles","order":13,"path":"folders/Particles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
@@ -15,7 +16,9 @@
     {"name":"spr_saw","order":4,"path":"sprites/spr_saw/spr_saw.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"level_2","order":1,"path":"rooms/level_2/level_2.yy",},
+    {"name":"prt_player_death","order":1,"path":"particles/prt_player_death/prt_player_death.yy",},
     {"name":"fnt_century_bold","order":1,"path":"fonts/fnt_century_bold/fnt_century_bold.yy",},
     {"name":"level_3","order":2,"path":"rooms/level_3/level_3.yy",},
+    {"name":"spr_part_pick_flower","order":5,"path":"sprites/spr_part_pick_flower/spr_part_pick_flower.yy",},
   ],
 }
