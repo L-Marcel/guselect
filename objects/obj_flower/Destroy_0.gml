@@ -1,1 +1,1 @@
-part_particles_burst(global.part_sys, x, y, prt_pick_flower);
+part_particles_burst(global.part_sys, x, y - 10, prt_pick_flower);

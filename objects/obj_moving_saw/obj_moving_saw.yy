@@ -4,6 +4,9 @@
   "name": "obj_moving_saw",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_saw","path":"objects/obj_saw/obj_saw.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_enemy_saw","path":"objects/obj_enemy_saw/obj_enemy_saw.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_saw",
-    "path": "sprites/spr_saw/spr_saw.yy",
+    "name": "spr_moving_saw",
+    "path": "sprites/spr_moving_saw/spr_moving_saw.yy",
   },
   "spriteMaskId": null,
   "visible": true,

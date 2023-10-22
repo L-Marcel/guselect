@@ -1,18 +1,12 @@
-if(instance_number(obj_player) == 1) {
-	if(y > obj_player.y + 4) {
-		depth = -2;
-	} else {
-		depth = 0;
-	};
-};
+scr_saw_colision();
 
-x += horizontal_speed;
-y += vertical_speed;
+x += lengthdir_x(horizontal_speed, direction);
+y += lengthdir_y(vertical_speed, direction);
 
 if(x <= 0 || x > room_width) {
-	horizontal_speed = -horizontal_speed;
+	direction = direction + 90;
 }
 
 if(y <= 0 || y > room_height) {
-	vertical_speed = -vertical_speed;
+	direction = direction + 90;
 }; 

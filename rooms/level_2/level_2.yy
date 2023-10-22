@@ -19,7 +19,6 @@
     {"name":"inst_27FE48","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_282F623C","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_423220EE","path":"rooms/level_2/level_2.yy",},
-    {"name":"inst_67665AA5","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_38348AFD","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_1BDF1088","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_26042D27","path":"rooms/level_2/level_2.yy",},
@@ -28,6 +27,7 @@
     {"name":"inst_B23ABF","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_28EBD8FE","path":"rooms/level_2/level_2.yy",},
     {"name":"inst_5F012130","path":"rooms/level_2/level_2.yy",},
+    {"name":"inst_301C280","path":"rooms/level_2/level_2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -44,7 +44,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_27FE48","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_saw","path":"objects/obj_saw/obj_saw.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":176.0,"y":112.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_282F623C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_moving_saw","path":"objects/obj_moving_saw/obj_moving_saw.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":48.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_423220EE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_moving_saw","path":"objects/obj_moving_saw/obj_moving_saw.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":112.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_67665AA5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_moving_saw","path":"objects/obj_moving_saw/obj_moving_saw.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":112.0,"y":80.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_301C280","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_enemy_saw","path":"objects/obj_enemy_saw/obj_enemy_saw.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":112.0,"y":112.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Flowers","depth":100,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_38348AFD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_flower","path":"objects/obj_flower/obj_flower.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":16.0,"y":104.0,},
