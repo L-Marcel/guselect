@@ -12,5 +12,5 @@ if(global.win) {
 	draw_set_halign(fa_left);
 	draw_text_transformed(5, 4, $"DEATHS: {global.deaths}", 0.5, 0.5, 0);
 	draw_set_halign(fa_right);
-	draw_text_transformed(room_width - 5, 4, $"LEVEL {global.level}", 0.5, 0.5, 0);
+	draw_text_transformed(room_width - 5, 4, $"LEVEL {room_id}", 0.5, 0.5, 0);
 };

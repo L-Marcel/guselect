@@ -28,9 +28,9 @@ if(x < 0) {
 	x = room_width;
 };
 
-if(global.flowers <= 0 && global.level < 3) {
+if(global.flowers <= 0 && room_next(room) != -1) {
 	room_goto_next();
-	global.level++;
+	obj_gui.room_id++;
 } else if(global.flowers <= 0) {
 	global.win = true;
 };
