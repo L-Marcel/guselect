@@ -2,9 +2,9 @@
   "FolderOrderSettings": [
     {"name":"Fonts","order":12,"path":"folders/Fonts.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Particles","order":13,"path":"folders/Particles.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"Particles","order":13,"path":"folders/Particles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
