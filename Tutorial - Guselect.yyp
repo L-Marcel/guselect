@@ -15,8 +15,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particles","folderPath":"folders/Particles.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -38,6 +38,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"scr_saw_colision","path":"scripts/scr_saw_colision/scr_saw_colision.yy",},},
+    {"id":{"name":"level_4","path":"rooms/level_4/level_4.yy",},},
     {"id":{"name":"prt_pick_flower","path":"particles/prt_pick_flower/prt_pick_flower.yy",},},
     {"id":{"name":"spr_part_pick_flower","path":"sprites/spr_part_pick_flower/spr_part_pick_flower.yy",},},
     {"id":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
@@ -51,8 +52,9 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
-    {"roomId":{"name":"level_3","path":"rooms/level_3/level_3.yy",},},
     {"roomId":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
+    {"roomId":{"name":"level_3","path":"rooms/level_3/level_3.yy",},},
+    {"roomId":{"name":"level_4","path":"rooms/level_4/level_4.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

@@ -4,8 +4,8 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Particles","order":13,"path":"folders/Particles.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Scripts","order":14,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
@@ -18,6 +18,7 @@
     {"name":"obj_moving_saw","order":3,"path":"objects/obj_moving_saw/obj_moving_saw.yy",},
     {"name":"spr_saw","order":4,"path":"sprites/spr_saw/spr_saw.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"level_4","order":3,"path":"rooms/level_4/level_4.yy",},
     {"name":"spr_part_pick_flower","order":7,"path":"sprites/spr_part_pick_flower/spr_part_pick_flower.yy",},
     {"name":"level_2","order":1,"path":"rooms/level_2/level_2.yy",},
     {"name":"prt_player_death","order":1,"path":"particles/prt_player_death/prt_player_death.yy",},
