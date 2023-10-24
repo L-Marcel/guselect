@@ -7,9 +7,9 @@ if(global.win) {
 	draw_set_alpha(1);
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);
-	draw_text_transformed(_w/2, _h/2 - 12, $"YOU WIN!!!", 0.5, 0.5, 0);
+	draw_text_transformed(_w/2, _h/2 - 64, $"YOU WIN!!!", 0.5, 0.5, 0);
 	draw_text_transformed(_w/2, _h/2, $"DEATHS: {global.deaths}", 0.5, 0.5, 0);
-	draw_text_transformed(_w/2, _h/2 + 16, $"PRESS ESC TO EXIT", 0.5, 0.5, 0);
+	draw_text_transformed(_w/2, _h/2 + 64, $"PRESS ESC TO EXIT", 0.5, 0.5, 0);
 	instance_deactivate_all(true);
 } else {
 	draw_set_halign(fa_left);
