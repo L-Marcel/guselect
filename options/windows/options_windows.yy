@@ -12,7 +12,7 @@
   "option_windows_display_cursor": true,
   "option_windows_display_name": "Guslect - Marcel Version",
   "option_windows_enable_steam": false,
-  "option_windows_executable_name": "Install - Guselect - Marcel Version.exe",
+  "option_windows_executable_name": "Guselect - Marcel Version.exe",
   "option_windows_icon": "${base_options_dir}/windows/icons/icon.ico",
   "option_windows_installer_finished": "${base_options_dir}/windows/installer/finished.bmp",
   "option_windows_installer_header": "${base_options_dir}/windows/installer/header.bmp",
